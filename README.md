@@ -30,6 +30,3 @@ jupyter lab
 
 Run the notebooks in the order listed above.
 
-## License
-
-MIT
